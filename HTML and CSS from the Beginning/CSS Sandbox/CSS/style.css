@@ -1,0 +1,73 @@
+
+
+/* This is the CSS of 'CSS Sandbox- Practice Webpage */
+
+#google img{
+  border: 5px solid #333333;
+  margin: 20px 530px;
+  padding: 10px 20px;
+  }
+#google a{
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  margin-left: 594px;
+}
+#amazon img{
+  border:5px solid #1a1b1a;
+  margin: 2px 552px;
+  padding: 0.9px 0.9px;
+}
+#amazon a{
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin-left: 597px;
+}
+#forms label{
+  font-style:italic;
+  font-family:'Times New Roman', Times, serif;
+  font-weight:bolder;
+  font-size:2em;
+  margin-left: 469px;
+  
+}
+#forms input{
+  margin-left: 10px;
+}
+#textarea label{
+  margin-left: 465px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight:bolder;
+  font-style:italic;
+}
+#textarea textarea{
+  margin-left: 466px;
+  background-color: rgb(243, 211, 238) ;
+  border: 3px solid #333333;
+}
+#links p{
+  background:cornsilk ;
+  margin: 5px 421px;
+  padding-left: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
