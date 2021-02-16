@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Link & Buttons</title>
+  <style>
+    body{
+      max-width:960px;
+      margin: 20% 50%;
+      font-family:cursive;
+      position:relative;
+    }
+    a{
+      text-decoration:none;
+    }
+    a:hover{
+      color:blanchedalmond;
+      text-decoration: underline;
+    }
+    a:active{
+      color: #f16d45;
+    }
+    .btn{
+      background:#28497e;
+      padding: 10px 18px;
+      color: rgb(243, 243, 243);
+      cursor:pointer;
+      border: none;
+      font-size: 16px;
+      border-radius: 5px;
+    }
+    .btn:hover{
+      background:rgb(159, 195, 106);
+    }
+    #messege{
+      border:none;
+      background:rgba(159, 240, 37, 0.568);
+      font-family: cursive;
+    }
+    #messege:hover{
+      background:rgb(255, 243, 78);
+    }
+  </style>
+</head>
+<body>
+  <a href="http://google.com" class="btn" target="blank">Google</a>
+  <br><br><br>
+  <button class="btn">My Button</button>
+  <br><br>
+  <div id="messege">
+    <label for="messege">Text</label>
+    <textarea name="messege" id="messege" cols="50" rows="10" placeholder="Enter Text"></textarea>
+  </div>
+</body>
+</html>
